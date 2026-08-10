@@ -12,5 +12,5 @@
 
 This project analyzes labor-cost trends across U.S. industries from 2017 to 2024 using employment, wages and salaries, and total compensation data from the Bureau of Economic Analysis (BEA).
 
-Research Question: Which U.S. industries experienced the greatest changes in employment and labor costs from 2017 to 2024, and where did compensation growth outpace workforce growth?
+The goal is to explore which U.S. industries experienced the greatest changes in employment and labor costs from 2017 to 2024, and where did compensation growth outpace workforce growth?
 
