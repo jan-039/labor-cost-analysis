@@ -1,6 +1,6 @@
 # U.S. Labor Cost Analysis
 
-# Table of Contents
+## Table of Contents
 
 1. [Project Background and Overview](#project-background-and-overview)
 2. Data & Methodology
