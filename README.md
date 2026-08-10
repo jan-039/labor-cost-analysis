@@ -34,4 +34,4 @@ The goal is to explore which U.S. industries experienced the greatest changes in
      * Supplements share
      * Growth measures
 - **Analysis Approach:**
-     * Compared 2017 and 2024 values to evaluate employment growth, labor-cost growth, and whether compensation increased faster than workforce size
+     * Compared 2017 and 2024 values to evaluate employment growth, labor-cost growth, and whether compensation increased faster than workforce size f
