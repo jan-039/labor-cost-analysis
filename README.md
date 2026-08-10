@@ -16,10 +16,14 @@ The goal is to explore which U.S. industries experienced the greatest changes in
 
 ## Data and Methodology
 
-- **Data Source:** U.S. Bureau of Economic Analysis (BEA)
-- **Time Period:** 2017–2024
-- **Datasets Used:** Employees by industry, wages and salaries by industry, and compensation of employees by industry
-- **Data Cleaning:** Used Excel Power Query to clean category labels, preserve industry hierarchy, reshape yearly columns, and remove duplicate records
+- **Datasets Used:**
+    * Employees by industry
+    * Wages and salaries by industry
+    * Compensation of employees by industry
+- **Data Cleaning:**
+    * Used Excel Power Query to clean category labels
+    * Preserved industry hierarchy
+    * Reshaped yearly columns
 - **Data Integration:** Merged the three datasets using Sector, Subsector, Industry, Level, and Year as matching fields
 - **Validation:** Checked row counts, duplicate keys, unmatched records, and null values after merging
 - **Calculated Metrics:** Supplements, wage per employee, compensation per employee, supplements share, and growth measures
