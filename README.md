@@ -1,5 +1,7 @@
 # U.S. Labor Cost Analysis
 
+> 🔄 **Status: In Progress** — Excel analysis are currently underway. A Power BI dashboard will be added in a later phase of the project.
+
 ## Table of Contents
 
 1. [Project Background and Overview](#project-background-and-overview)
