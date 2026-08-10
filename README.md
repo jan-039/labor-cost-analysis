@@ -14,3 +14,13 @@ This project analyzes labor-cost trends across U.S. industries from 2017 to 2024
 
 The goal is to explore which U.S. industries experienced the greatest changes in employment and labor costs from 2017 to 2024, and where did compensation growth outpace workforce growth?
 
+## Data and Methodology
+
+- **Data Source:** U.S. Bureau of Economic Analysis (BEA)
+- **Time Period:** 2017–2024
+- **Datasets Used:** Employees by industry, wages and salaries by industry, and compensation of employees by industry
+- **Data Cleaning:** Used Excel Power Query to clean category labels, preserve industry hierarchy, reshape yearly columns, and remove duplicate records
+- **Data Integration:** Merged the three datasets using Sector, Subsector, Industry, Level, and Year as matching fields
+- **Validation:** Checked row counts, duplicate keys, unmatched records, and null values after merging
+- **Calculated Metrics:** Supplements, wage per employee, compensation per employee, supplements share, and growth measures
+- **Analysis Approach:** Compared 2017 and 2024 values to evaluate employment growth, labor-cost growth, and whether compensation increased faster than workforce size
