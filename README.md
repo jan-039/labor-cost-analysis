@@ -22,6 +22,9 @@ The goal is to explore which U.S. industries experienced the greatest changes in
 
 ## Data and Methodology
 
+- **Primary Tools**
+     * Excel
+     * Power Query
 - **Datasets Used:**
     * Employees by industry
     * Wages and salaries by industry
