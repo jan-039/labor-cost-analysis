@@ -4,8 +4,7 @@
 
 1. [Project Background and Overview](#project-background-and-overview)
 2. [Data & Methodology](#data-and-methodology)
-3. [Analysis Plan](#analysis-plan)
-4. Next Steps
+3. [Next Steps](#next-steps)
 
 <!--
 3. Executive Summary
@@ -41,7 +40,7 @@ The goal is to explore which U.S. industries experienced the greatest changes in
 - **Analysis Approach:**
      * Compared 2017 and 2024 values to evaluate employment growth, labor-cost growth, and whether compensation increased faster than workforce size.
 
-## Analysis Plan
+## Next Steps
 
 > **Status:** The following analyses are planned and reflect work that is still in progress.
 
