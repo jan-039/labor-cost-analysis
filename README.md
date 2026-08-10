@@ -24,7 +24,14 @@ The goal is to explore which U.S. industries experienced the greatest changes in
     * Used Excel Power Query to clean category labels
     * Preserved industry hierarchy
     * Reshaped yearly columns
-- **Data Integration:** Merged the three datasets using Sector, Subsector, Industry, Level, and Year as matching fields
-- **Validation:** Checked row counts, duplicate keys, unmatched records, and null values after merging
-- **Calculated Metrics:** Supplements, wage per employee, compensation per employee, supplements share, and growth measures
-- **Analysis Approach:** Compared 2017 and 2024 values to evaluate employment growth, labor-cost growth, and whether compensation increased faster than workforce size
+    * Checked for missing values and duplicates
+- **Data Integration:**
+     * Merged the three datasets using Sector, Subsector, Industry, Level, and Year as matching fields
+- **Calculated Metrics:**
+     * Supplements
+     * Wage per employee
+     * Compensation per employee
+     * Supplements share
+     * Growth measures
+- **Analysis Approach:**
+     * Compared 2017 and 2024 values to evaluate employment growth, labor-cost growth, and whether compensation increased faster than workforce size
