@@ -21,21 +21,20 @@ This project analyzes labor-cost trends across U.S. industries from 2017 to 2024
 The goal is to explore which U.S. industries experienced the greatest changes in employment and labor costs from 2017 to 2024, and where did compensation growth outpace workforce growth?
 
 ## Terminology
-- **Terminology**
-    * **Employees:** Full-time and part-time wage-and-salary employees within an industry.
-    * **Wages:** Total wages and salaries paid within an industry, including direct employee pay such as salaries, bonuses, and commissions.
-    * **Compensation:** Total employer labor cost, including wages and supplements to wages and salaries.
-    * **Supplements:** Employer-paid additions to wages, calculated as `Compensation - Wages`.
-    * **Wage per Employee:** Total wages divided by employee headcount.
-    * **Compensation per Employee:** Total compensation divided by employee headcount.
-    * **Supplements per Employee:** Supplements divided by employee headcount.
-    * **Wage Share:** Wages as a percentage of total compensation.
-    * **Supplements Share:** Supplements as a percentage of total compensation.
-    * **Employee Growth:** Percentage change in employee headcount from 2017 to 2024.
-    * **Wage Growth:** Percentage change in total wages from 2017 to 2024.
-    * **Compensation Growth:** Percentage change in total compensation from 2017 to 2024.
-    * **Compensation per Employee Growth:** Percentage change in compensation per employee from 2017 to 2024.
-    * **Compensation Growth vs. Employee Growth:** Compensation growth minus employee growth, used to identify industries where labor costs grew faster than workforce size.
+* **Employees:** Full-time and part-time wage-and-salary employees within an industry.
+* **Wages:** Total wages and salaries paid within an industry, including direct employee pay such as salaries, bonuses, and commissions.
+* **Compensation:** Total employer labor cost, including wages and supplements to wages and salaries.
+* **Supplements:** Employer-paid additions to wages, calculated as `Compensation - Wages`.
+* **Wage per Employee:** Total wages divided by employee headcount.
+* **Compensation per Employee:** Total compensation divided by employee headcount.
+* **Supplements per Employee:** Supplements divided by employee headcount.
+* **Wage Share:** Wages as a percentage of total compensation.
+* **Supplements Share:** Supplements as a percentage of total compensation.
+* **Employee Growth:** Percentage change in employee headcount from 2017 to 2024.
+* **Wage Growth:** Percentage change in total wages from 2017 to 2024.
+* **Compensation Growth:** Percentage change in total compensation from 2017 to 2024.
+* **Compensation per Employee Growth:** Percentage change in compensation per employee from 2017 to 2024.
+* **Compensation Growth vs. Employee Growth:** Compensation growth minus employee growth, used to identify industries where labor costs grew faster than workforce size.
 
 ## Data and Methodology
 
