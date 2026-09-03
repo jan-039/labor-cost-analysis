@@ -5,8 +5,9 @@
 ## Table of Contents
 
 1. [Project Background and Overview](#project-background-and-overview)
-2. [Data & Methodology](#data-and-methodology)
-3. [Next Steps](#next-steps)
+2. [Terminology](#terminology)
+3. [Data & Methodology](#data-and-methodology)
+4. [Next Steps](#next-steps)
 
 <!--
 3. Executive Summary
