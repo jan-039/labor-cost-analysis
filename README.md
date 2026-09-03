@@ -66,8 +66,6 @@ The goal is to explore which U.S. industries experienced the greatest changes in
 
 > **Status:** The following analyses are planned and reflect work that is still in progress.
 
-- **Trend Analysis:**
-     * Use annual data from 2017–2024 to visualize labor-cost and employment trends across industries.
 - **Dashboard:**
      * Present the most important findings in **Power BI** through KPIs, rankings, trend charts, and interactive filters.
   
