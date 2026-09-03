@@ -65,10 +65,6 @@ The goal is to explore which U.S. industries experienced the greatest changes in
 
 > **Status:** The following analyses are planned and reflect work that is still in progress.
 
-- **Industry Summary:**
-     * Compare 2017 and 2024 industry-level results and calculate key growth metrics for employment, wages, compensation, and compensation per employee.
-- **Variance Analysis:**
-     * Measure how much labor-cost growth exceeded headcount growth and separate compensation changes into headcount-driven and rate-driven effects.
 - **Trend Analysis:**
      * Use annual data from 2017–2024 to visualize labor-cost and employment trends across industries.
 - **Dashboard:**
