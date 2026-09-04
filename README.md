@@ -25,7 +25,7 @@ The goal is to explore which U.S. industries experienced the greatest changes in
 ## Repository Contents
 * `labor_cost_analysis.xlsx` — Revised individual analysis focused on U.S. industry employment, wages, compensation, and labor-cost growth from 2017–2024.
 * `data/` — Source data files used in the revised analysis.
-* `To What Extent Is The American Dream Still Attainable.pdf` — Original group datathon presentation. My contribution focused on the wage-growth analysis shown on **Slide 3**, which examined how earning opportunities varied across industries.
+* `To What Extent Is The American Dream Still Attainable.pdf` — Original group datathon presentation. The datathon was hosted by the Association for Information Systems from California State University, Long Beach. My contribution focused on the wage-growth analysis shown on **Slide 3**, which examined how earning opportunities varied across industries.
 * `README.md` — Project overview, methodology, terminology, and analysis progress.
 
 > **Note:** This repository expands on the original team datathon submission. The current Excel and Power BI analysis is an individual revision that develops the labor-cost portion of the project in greater depth.
