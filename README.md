@@ -5,9 +5,10 @@
 ## Table of Contents
 
 1. [Project Background and Overview](#project-background-and-overview)
-2. [Terminology](#terminology)
-3. [Data & Methodology](#data-and-methodology)
-4. [Next Steps](#next-steps)
+2. [Repository Contents](#repository-contents)
+3. [Terminology](#terminology)
+4. [Data & Methodology](#data-and-methodology)
+5. [Next Steps](#next-steps)
 
 <!--
 3. Executive Summary
@@ -20,6 +21,14 @@
 This project analyzes labor-cost trends across U.S. industries from 2017 to 2024 using employment, wages and salaries, and total compensation data from the Bureau of Economic Analysis (BEA).
 
 The goal is to explore which U.S. industries experienced the greatest changes in employment and labor costs from 2017 to 2024, and where did compensation growth outpace workforce growth?
+
+## Repository Contents
+* `labor_cost_analysis.xlsx` — Revised individual analysis focused on U.S. industry employment, wages, compensation, and labor-cost growth from 2017–2024.
+* `data/` — Source data files used in the revised analysis.
+* `To What Extent Is The American Dream Still Attainable.pdf` — Original group datathon presentation. My contribution focused on the wage-growth analysis shown on **Slide 3**, which examined how earning opportunities varied across industries.
+* `README.md` — Project overview, methodology, terminology, and analysis progress.
+
+> **Note:** This repository expands on the original team datathon submission. The current Excel and Power BI analysis is an individual revision that develops the labor-cost portion of the project in greater depth.
 
 ## Terminology
 * **Employees:** Full-time and part-time wage-and-salary employees within an industry.
