@@ -51,6 +51,7 @@ The goal is to explore which U.S. industries experienced the greatest changes in
 - **Primary Tools**
      * Excel
      * Power Query
+     * Power BI
 - **Datasets Used:**
     * Employees by industry
     * Wages and salaries by industry
